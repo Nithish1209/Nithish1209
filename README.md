@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nithish1209
-- 👀 I’m interested in  full stack
+- 👋 Hi, I’m @Nithish Jaligapu
+- 👀 I’m interested in  full stack 
 - 🌱 I’m currently learning  React Js
 - 💞️ I’m looking to collaborate on  ....
 - 📫 How to reach me ...
