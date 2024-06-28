@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Skills</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -28,8 +27,9 @@ You can click the Preview link to take a look at your changes.
         .card {
             margin-bottom: 20px;
         }
-        .card i {
-            font-size: 2em;
+        .card svg {
+            width: 2em;
+            height: 2em;
             margin-bottom: 10px;
         }
     </style>
@@ -41,7 +41,10 @@ You can click the Preview link to take a look at your changes.
             <div class="col-md-4">
                 <div class="card text-center">
                     <div class="card-body">
-                        <i class="fab fa-java"></i>
+                        <!-- Java Icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M12 0l3.125 6.354 7.03 1.037-5.078 4.951 1.197 6.978L12 15.759l-6.274 3.561L6.922 12.34 1.844 7.388 8.875 6.354z" fill="#f89820"/>
+                        </svg>
                         <h5 class="card-title">Java</h5>
                         <p class="card-text">Experience with OOP, data structures, algorithms, JDBC, and JSP.</p>
                     </div>
@@ -50,7 +53,10 @@ You can click the Preview link to take a look at your changes.
             <div class="col-md-4">
                 <div class="card text-center">
                     <div class="card-body">
-                        <i class="fab fa-python"></i>
+                        <!-- Python Icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M9.237 0c-1.522 0-2.537 1.287-2.537 2.515V7.54h5.062V2.515c0-1.223-1.045-2.515-2.525-2.515zm5.06 0c1.522 0 2.537 1.287 2.537 2.515v5.025h-5.062V2.515C11.772 1.292 12.817 0 14.297 0zm0 24c-1.522 0-2.537-1.287-2.537-2.515V16.46h5.062v5.025c0 1.223-1.045 2.515-2.525 2.515zm-5.06 0c-1.522 0-2.537-1.287-2.537-2.515V16.46h5.062v5.025c0 1.223-1.045 2.515-2.525 2.515z" fill="#3572A5"/>
+                        </svg>
                         <h5 class="card-title">Python</h5>
                         <p class="card-text">Proficient in scripting, data analysis, and web development.</p>
                     </div>
@@ -59,7 +65,11 @@ You can click the Preview link to take a look at your changes.
             <div class="col-md-4">
                 <div class="card text-center">
                     <div class="card-body">
-                        <i class="fab fa-html5"></i>
+                        <!-- HTML & CSS Icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M1.5 0h21L20.18 22.09l-8.175 2.27-8.182-2.27L1.5 0zm14.442 19.233l1.406-15.75H7.65l-.186 2.079h6.963l-.231 2.549H7.264l-.187 2.081h6.964l-.317 3.567-2.52.677-2.524-.677-.168-1.882H6.28l.316 3.548L12.003 21.4l6.941-1.893z" fill="#E44D26"/>
+                            <path d="M20.18 22.09L12.003 24.36v-4.948l2.52-.677.317-3.567H7.797L6.28 12.31h6.784l.232-2.549H7.49l.186-2.079h6.518L14.706 3.483h-6.96l-.186-2.079h10.986L20.18 22.09z" fill="#1572B6"/>
+                        </svg>
                         <h5 class="card-title">HTML & CSS</h5>
                         <p class="card-text">Skilled in creating web pages with HTML5, CSS3, and responsive design.</p>
                     </div>
@@ -70,7 +80,10 @@ You can click the Preview link to take a look at your changes.
             <div class="col-md-4">
                 <div class="card text-center">
                     <div class="card-body">
-                        <i class="fab fa-js-square"></i>
+                        <!-- JavaScript Icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M12 0L1.06 3.827v16.346L12 24l10.94-3.827V3.827L12 0zm4.472 17.814L12 21.01l-4.472-3.196V12.3l4.472-2.174 4.472 2.174v5.514zM9.302 5.52h5.396l-.7 4.353H10L9.302 5.52z" fill="#F7DF1E"/>
+                        </svg>
                         <h5 class="card-title">JavaScript</h5>
                         <p class="card-text">Experience with vanilla JS, DOM manipulation, and AJAX.</p>
                     </div>
@@ -79,7 +92,10 @@ You can click the Preview link to take a look at your changes.
             <div class="col-md-4">
                 <div class="card text-center">
                     <div class="card-body">
-                        <i class="fab fa-bootstrap"></i>
+                        <!-- Bootstrap Icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M6 0h12l6 6v12l-6 6H6l-6-6V6L6 0zm8.485 17.757h-2.26l-2.77-2.943h-1.55v2.943h-2.252V6.208h6.32c1.98 0 3.535.668 4.662 2.005 1.125 1.337 1.687 3.177 1.687 5.517 0 2.15-.52 3.933-1.56 5.346-1.04 1.412-2.522 2.197-4.447 2.361h-.17zm.387-8.497c0-1.68-.388-3.018-1.163-4.016-.774-.999-1.842-1.494-3.203-1.494h-2.028v10.68h2.36c1.367 0 2.436-.503 3.208-1.512.77-1.01 1.14-2.4 1.14-4.202h-.314z" fill="#7952B3"/>
+                        </svg>
                         <h5 class="card-title">Bootstrap</h5>
                         <p class="card-text">Proficient in using Bootstrap for responsive web design.</p>
                     </div>
@@ -88,7 +104,10 @@ You can click the Preview link to take a look at your changes.
             <div class="col-md-4">
                 <div class="card text-center">
                     <div class="card-body">
-                        <i class="fab fa-react"></i>
+                        <!-- React Icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M12 0c-.683 0-1.355.08-2.012.236.172.346.393.644.655.882.272.245.592.428.944.558.367.136.765.22 1.169.24.41.023.832-.017 1.244-.124.41-.106.795-.277 1.143-.502.355-.228.678-.508.947-.833a11.7 11.7 0 0 0-2.09-.457 14.366 14.366 0 0 0-2.153-.04.383.383 0 0 0-.123.02c-.043.008-.083.024-.118.043zm6.17 6.47c.352.303.666.64.93 1.002.264.364.477.764.634 1.198.176.474.301.965.367 1.474.057.46.055.923-.004 1.38-.059.46-.179.918-.353 1.368-.167.43-.372.843-.607 1.23-.254.417-.547.807-.87 1.172-.336.372-.703.719-1.097 1.033-.39.312-.807.59-1.243.837-.45.248-.92.454-1.398.617a10.16 10.16 0 0 1-1.563.456c-.558.105-1.125.144-1.693.119a11.87 11.87 0 0 1-1.692-.307 11.247 11.247 0 0 1-1.648-.655c-.45-.22-.888-.467-1.31-.732-.44-.276-.858-.576-1.252-.898-.336-.288-.658-.594-.954-.922-.288-.318-.546-.657-.77-1.014-.254-.387-.472-.8-.648-1.237-.171-.426-.295-.872-.36-1.325-.06-.428-.073-.859-.038-1.29.025-.345.063-.688.116-1.027.07-.416.179-.83.321-1.232.167-.488.378-.96.625-1.412.237-.439.512-.857.82-1.249a11.03 11.03 0 0 1 .934-1.097 11.42 11.42 0 0 1 1.13-.92c.413-.332.854-.629 1.318-.89.465-.257.94-.479 1.424-.663.473-.178.96-.313 1.453-.405.47-.088.946-.134 1.423-.138h.01c.489.006.973.054 1.456.145.504.09 1.002.225 1.49.4.445.155.881.338 1.307.549.418.202.818.437 1.205.699.402.265.789.558 1.159.873.348.298.678.623.988.973.301.334.582.697.837 1.084.247.372.465.768.653 1.177.19.41.35.84.472 1.277.13.474.22.958.27 1.442.057.448.07.898.036 1.346a8.7 8.7 0 0 1-.31 1.345c-.105.37-.242.736-.407 1.094-.171.37-.364.727-.577 1.07-.215.36-.452.707-.706 1.038-.272.342-.566.663-.878.96-.316.31-.651.598-1.003.863-.365.272-.746.52-1.14.74-.42.23-.86.436-1.31.612-.417.165-.846.303-1.278.41a12.43 12.43 0 0 1-1.707.303c-.566.073-1.134.107-1.702.097-.576-.013-1.15-.055-1.719-.123-.56-.065-1.116-.164-1.664-.3-.54-.134-1.073-.304-1.593-.502-.52-.197-1.024-.428-1.51-.686a11.95 11.95 0 0 1-1.412-.853c-.4-.26-.79-.538-1.17-.835-.367-.288-.722-.593-1.062-.91-.336-.31-.656-.642-.958-.992-.289-.337-.556-.696-.8-1.07-.256-.396-.478-.808-.667-1.233-.203-.454-.368-.925-.49-1.407-.13-.51-.22-1.027-.276-1.55a11.73 11.73 0 0 1-.01-1.608c.025-.432.07-.863.134-1.293.07-.467.175-.927.31-1.377.149-.493.344-.97.575-1.437.263-.516.565-1.015.9-1.494.372-.543.784-1.059 1.229-1.54.44-.475.91-.924 1.41-1.348.487-.42 1.002-.81 1.54-1.164.543-.358 1.11-.675 1.693-.95.497-.23 1.01-.433 1.525-.608.501-.166 1.01-.287 1.523-.373.483-.078.968-.116 1.453-.115zm.17 8.2a2.05 2.05 0 1 1 0 4.1 2.05 2.05 0 0 1 0-4.1z" fill="#61DAFB"/>
+                        </svg>
                         <h5 class="card-title">React.js</h5>
                         <p class="card-text">Experience in building SPAs and dynamic UIs with React.js.</p>
                     </div>
@@ -99,27 +118,19 @@ You can click the Preview link to take a look at your changes.
             <div class="col-md-4 offset-md-2">
                 <div class="card text-center">
                     <div class="card-body">
-                        <i class="fas fa-file-code"></i>
+                        <!-- JSP Icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M4.72 0l-.092.558-4.54.694.101-.591 4.53-.661zm1.07 5.874L.94 6.92l.133.42 4.87-1.053-.153-.414zm.86 5.177l-5.54.578.12.408 5.53-.578-.11-.408zm-.98 5.176l-4.87.897.13.419 4.87-.897-.13-.419zm4.5-10.568l.092.558 4.54-.694-.1-.591-4.53.661zm-1.07-5.874l5.41 1.053-.13.42-5.41-1.053.13-.42zm-2.06 14.704h-2.67v1.694h5.48v1.528H2.82V9.838h5.28v1.53H4.84v1.435h3.26v1.518H4.84v1.435h3.28v1.53zm1.7-7.835h.204l.123 1.05H9.93c.23-.01.437.033.628.127.198.098.368.234.503.397.14.168.248.36.317.572.075.208.112.43.112.652a1.8 1.8 0 0 1-.56 1.313c-.15.154-.322.28-.507.372a1.89 1.89 0 0 1-.61.13h-2.86l-.123-1.05h2.86c.065-.004.129-.02.19-.047.066-.025.128-.063.18-.11.056-.05.1-.106.13-.17a.77.77 0 0 0 .06-.28.81.81 0 0 0-.23-.563.759.759 0 0 0-.53-.213H9.36l-.64 5.486h-.34L9.36 6.59zm5.76 3.048v5.497h-1.03V9.552l-1.2 2.645h-.435L11.3 9.55v5.497h-1.03V9.086h1.285L13 11.57l1.445-2.485h1.285zm1.27 7.453h-.98l-1.79-5.96h1.12l1.23 4.268 1.23-4.268h1.1l-1.91 5.96zm2.59-4.003h.27v-1.694h-.27v1.694zm0 1.65h.27v5.45h-.27v-5.45zm-.27-8.166c-.09.003-.18.008-.27.015-.093.008-.182.014-.273.023l-.174.014-.173.018c-.094.01-.183.03-.272.05-.046.01-.09.03-.137.043-.045.014-.09.03-.133.05-.13.06-.247.15-.348.257-.056.055-.1.12-.15.188-.046.063-.083.13-.116.197-.068.135-.116.29-.147.45-.02.12-.03.24-.04.36-.004.047-.003.1-.003.15v4.157h-.2V6.49c.002-.034.003-.073.007-.106.007-.034.01-.065.017-.096.007-.04.016-.08.027-.12.034-.12.08-.238.137-.348.06-.104.13-.205.22-.287.16-.157.345-.276.545-.352.187-.064.39-.096.597-.095h1.208v5.788h-.2v-4.38l-3.38 1.964V6.327l3.38-1.964v4.15z" fill="#5E4F91"/>
+                        </svg>
                         <h5 class="card-title">JSP</h5>
-                        <p class="card-text">Knowledge of server-side Java using JavaServer Pages (JSP).</p>
+                        <p class="card-text">Knowledge in JavaServer Pages for dynamic web applications.</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card text-center">
                     <div class="card-body">
-                        <i class="fas fa-database"></i>
-                        <h5 class="card-title">MySQL</h5>
-                        <p class="card-text">Experience with relational databases and SQL queries.</p>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
+            
 
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
 
