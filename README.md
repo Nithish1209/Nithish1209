@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nithish Jaligapu
 - 👀 I’m interested in  full stack 
 - 🌱 I’m currently learning  React Js
-- 💞️ I’m looking to collaborate on  ....
+- 💞️ I’m looking to collaborate on java full stack 
 - 📫 How to reach me : https://www.linkedin.com/in/jaligapu-nithish129/
 
 <!---
