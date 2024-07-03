@@ -13,19 +13,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square" alt="profile view" align="right"/>
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nithish Jaligapu.
-
 <p align="left"> 
-  <img src="https://img.shields.io/badge/B-tech AI-ML-blue"> 
-  <img src="https://img.shields.io/badge/GSSoc'23-blueviolet">
-  <img src="https://img.shields.io/badge/Frontend-red">
-  <img src="https://img.shields.io/badge/ML-enthusiast-orange">
-</p>
-
-<p align="left"> 
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-blue"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue"></a>
-  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-orange"></a>
+  <a href="mailto:nithishjaligapu123@gmail.com"><img src="https://img.shields.io/badge/Email-blue"></a>
+  <a href="https://ww.linkedin.com/in/jaligapu-nithish129"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
+  <a href="https://nithish1209.github.io/personal/portfolio.html"><img src="https://img.shields.io/badge/Website-orange"></a>
 </p>
 
 ## About Me
@@ -41,12 +32,12 @@ A passionate Final year CSE student at Kakatiya Institute of Technology & Scienc
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
-<--<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>-->
+
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
-<--![Profile](https://yourimageurl.com/profile.png)-->
+
         
        
 
