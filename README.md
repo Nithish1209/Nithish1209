@@ -9,97 +9,45 @@ Nithish1209/Nithish1209 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-   
-</head>
-<body>
-    <div class="container">
-        <h1 class="text-center">My Skills</h1>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="card text-center">
-                    <div class="card-body">
-                        <i class="fab fa-java"></i>
-                        <h5 class="card-title">Java</h5>
-                        <p class="card-text">Experience with OOP, data structures, algorithms, JDBC, and JSP.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card text-center">
-                    <div class="card-body">
-                        <i class="fab fa-python"></i>
-                        <h5 class="card-title">Python</h5>
-                        <p class="card-text">Proficient in scripting, data analysis, and web development.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card text-center">
-                    <div class="card-body">
-                        <i class="fab fa-html5"></i>
-                        <h5 class="card-title">HTML & CSS</h5>
-                        <p class="card-text">Skilled in creating web pages with HTML5, CSS3, and responsive design.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="card text-center">
-                    <div class="card-body">
-                        <i class="fab fa-js-square"></i>
-                        <h5 class="card-title">JavaScript</h5>
-                        <p class="card-text">Experience with vanilla JS, DOM manipulation, and AJAX.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card text-center">
-                    <div class="card-body">
-                        <i class="fab fa-bootstrap"></i>
-                        <h5 class="card-title">Bootstrap</h5>
-                        <p class="card-text">Proficient in using Bootstrap for responsive web design.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card text-center">
-                    <div class="card-body">
-                        <i class="fab fa-react"></i>
-                        <h5 class="card-title">React.js</h5>
-                        <p class="card-text">Experience in building SPAs and dynamic UIs with React.js.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4 offset-md-2">
-                <div class="card text-center">
-                    <div class="card-body">
-                        <i class="fas fa-file-code"></i>
-                        <h5 class="card-title">JSP</h5>
-                        <p class="card-text">Knowledge of server-side Java using JavaServer Pages (JSP).</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card text-center">
-                    <div class="card-body">
-                        <i class="fas fa-database"></i>
-                        <h5 class="card-title">MySQL</h5>
-                        <p class="card-text">Experience with relational databases and SQL queries.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square" alt="profile view" align="right"/>
 
- 
-</body>
-</html>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm [Your Name]
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/B-tech AI-ML-blue"> 
+  <img src="https://img.shields.io/badge/GSSoc'23-blueviolet">
+  <img src="https://img.shields.io/badge/Frontend-red">
+  <img src="https://img.shields.io/badge/ML-enthusiast-orange">
+</p>
+
+<p align="left"> 
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-blue"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue"></a>
+  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-orange"></a>
+</p>
+
+## About Me
+
+A passionate 3rd year AI-ML student at GGSIPU, Delhi. ML enthusiast, interested in Data Science internship. Contributor-GSSoc'23.
+
+## Languages and Tools:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</p>
+
+![Profile](https://yourimageurl.com/profile.png)
+        
+       
+
+
