@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square" alt="profile view" align="right"/>
+
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nithish Jaligapu.
 <p align="left"> 
