@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nithish Jaligapu
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nithish Jaligapu.
 - 👀 I’m interested in  full stack 
 - 🌱 I’m currently learning  React Js
 - 💞️ I’m looking to collaborate on java full stack 
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nithish Jaligapu.
+
 <p align="left"> 
   <a href="mailto:nithishjaligapu123@gmail.com"><img src="https://img.shields.io/badge/Email-blue"></a>
   <a href="https://ww.linkedin.com/in/jaligapu-nithish129"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
