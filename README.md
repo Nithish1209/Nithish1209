@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nithish Jaligapu.
 - 👀 I’m interested in  full stack 
-- 🌱 I’m currently learning  React Js
+- 🌱 I’m currently learning  Angular
 - 💞️ I’m looking to collaborate on java full stack , Python Full Stack
 - 📫 How to reach me : https://www.linkedin.com/in/jaligapu-nithish129/
 
@@ -27,6 +27,8 @@ A passionate Final year CSE student at Kakatiya Institute of Technology & Scienc
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" />
+
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
