@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nithish Jaligapu.
 - 👀 I’m interested in  full stack 
-- 🌱 I’m currently learning  Angular
+- 🌱 I’m currently learning  React
 - 💞️ I’m looking to collaborate on java full stack , Python Full Stack
 - 📫 How to reach me : https://www.linkedin.com/in/jaligapu-nithish129/
 
