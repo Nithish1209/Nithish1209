@@ -1,48 +1,107 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nithish Jaligapu.
-- 👀 I’m interested in  full stack 
-- 🌱 I’m currently learning  React
-- 💞️ I’m looking to collaborate on java full stack , Python Full Stack
-- 📫 How to reach me : https://www.linkedin.com/in/jaligapu-nithish129/
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nithish Jaligapu
 
-<!---
-Nithish1209/Nithish1209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Full Stack Developer | AI Engineer
 
+I'm a passionate **Full Stack Developer** with **2+ years of professional experience** building scalable web applications and AI-powered solutions. I enjoy designing modern user interfaces, developing robust backend APIs, and deploying applications on the cloud.
 
+- 💼 **2+ years** of experience in Full Stack Development
+- 🚀 Delivered **4 large-scale enterprise projects**
+- 📂 Built **50+ personal projects**, available on GitHub
+- 🤖 Experienced in integrating AI and LLM-based solutions into web applications
+- ☁️ Hands-on experience with AWS cloud deployment
+- 📚 Continuously learning System Design, DevOps, and AI Engineering
 
+---
 
+## 🛠️ Tech Stack
 
-<p align="left"> 
-  <a href="mailto:nithishjaligapu123@gmail.com"><img src="https://img.shields.io/badge/Email-blue"></a>
-  <a href="https://ww.linkedin.com/in/jaligapu-nithish129"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
-  <a href="https://nithish1209.github.io/personal/portfolio.html"><img src="https://img.shields.io/badge/Website-orange"></a>
-</p>
+### Frontend
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+- Material UI
 
-## About Me
+### Backend
+- Python
+- FastAPI
+- REST APIs
+- Java
 
-A passionate Final year CSE student at Kakatiya Institute of Technology & Science , Warangal. FUll STACK enthusiast, interested in full stack internship.
+### Database
+- PostgreSQL
+- MySQL
 
-## Languages and Tools:
+### Cloud & DevOps
+- AWS (EC2, S3, IAM)
+- Git & GitHub
+- Linux
+- Nginx
+
+---
+
+## 📌 Professional Highlights
+
+- ✅ 2+ years of industry experience
+- 🚀 Delivered 4 enterprise-level Full Stack applications
+- 📦 Built scalable REST APIs using FastAPI and Python
+- ⚛️ Developed responsive React applications using TypeScript
+- ☁️ Deployed applications on AWS
+- 🤖 Worked on AI-powered applications and LLM integrations
+- 📈 Created 50+ personal projects covering Full Stack, AI, and Automation
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" />
+<a href="mailto:nithishjaligapu123@gmail.com">
+<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<a href="https://www.linkedin.com/in/jaligapu-nithish129/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/Nithish1209">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<a href="https://nithish1209.github.io/personal/portfolio.html">
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
+</a>
 </p>
 
+---
 
-        
-       
+## 💻 Languages & Tools
 
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,bootstrap,python,java,fastapi,postgres,mysql,aws,git,github,vscode,linux" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish1209&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish1209&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Current Focus
+
+- Full Stack Development
+- AI Engineering
+- FastAPI Microservices
+- AWS Cloud
+- System Design
+- Scalable REST APIs
+- Generative AI Applications
+
+⭐ **Check out my repositories to explore 50+ projects covering React, Python, FastAPI, AWS, AI, and Full Stack Development.**
